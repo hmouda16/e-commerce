@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # boutique
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -44,3 +45,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# e-commerce
+boutique e-commerce en vue.js
+>>>>>>> 751aea57ec393fafeef9be2fcc7b998b284116c5
